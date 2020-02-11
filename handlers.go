@@ -1,0 +1,5 @@
+package wordpresser
+
+func ListPosts() {
+
+}
